@@ -3,7 +3,7 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 import os
 
-FILE_PATH = r"D:\Home\Documents\project\salesDataAnalysis\sales_data.csv"
+FILE_PATH = r"C:\Users\ASUS\OneDrive\mini project\salesDataAnalysis"
 OUTPUT_DIR = "Sales_Reports"
 
 if not os.path.exists(OUTPUT_DIR):
